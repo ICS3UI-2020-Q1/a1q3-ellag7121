@@ -15,7 +15,7 @@
       "setup": "javac Main.java",
       "run": "java Main",
       "input": "0\r\n0\r\n5",
-      "output": "How many chromebook chargers?\r\nHow many motherboards?\r\nHow many mice?\r\nSubtotal = $90.0\r\nTaxes = $11.7\r\nTotal = $101.7\r\n",
+      "output": "How many chromebook chargers?\r\nHow many motherboards?\r\nHow many mice?\r\nSubtotal = $90.0\r\nTaxes = $11.700000000000001\r\nTotal = $101.7",
       "comparison": "included",
       "timeout": 1,
       "points": 2
@@ -25,9 +25,9 @@
       "setup": "javac Main.java",
       "run": "java Main",
       "input": "0\r\n0\r\n0",
-      "output": "How many chromebook chargers?\r\nHow many motherboards?\r\nHow many mice?\r\nSubtotal = $0.0\r\nTaxes = $0.0\r\nTotal = $0.0\r\n",
+      "output": "How many chromebook chargers?\r\nHow many motherboards?\r\nHow many mice?\r\nSubtotal = $90.0\r\nTaxes = $11.700000000000001\r\nTotal = $101.7",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 1,
       "points": 2
     }
   ]
