@@ -41,7 +41,7 @@ public class Main {
     total = subtotal + tax; //add subtotal to tax to get total
 
     //tell user subtotal, tax and total cost of their purchase
-    System.out.println("Subtotal= $" + subtotal); //print the final subtotal
+    System.out.println("Subtotal = $" + subtotal); //print the final subtotal
     System.out.println("Taxes = $" + tax); //print the final tax
     System.out.println("Total = $" + total); //print the final total
   }
